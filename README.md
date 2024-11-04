@@ -77,6 +77,6 @@ Thank you for visiting my profile!
 
 ---
 
-This README structure organizes your skills, projects, and goals for easy viewing, making it ideal for potential collaborators or clients. You can add more links or details for each section as your projects grow. Let me know if you'd like any adjustments!
+
 
 
