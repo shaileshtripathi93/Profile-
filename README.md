@@ -1,7 +1,4 @@
-Certainly! Here's a sample README.md file that showcases your various projects, skills, and interests in a concise, organized way. You can modify sections as needed to reflect your latest work.
 
-
----
 
 # 👋 Welcome to My GitHub Profile!
 
